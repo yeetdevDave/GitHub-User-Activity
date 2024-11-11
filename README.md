@@ -1,6 +1,6 @@
 # GitHub User Activity
 
-GitHub User Activity is a project to build a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal.
+GitHub User Activity is a project (https://roadmap.sh/projects/github-user-activity) to build a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal.
 
 # How to use it ?
 
